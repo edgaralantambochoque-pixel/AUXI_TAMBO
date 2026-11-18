@@ -61,7 +61,6 @@ class Cabina {
                 peso = peso + personasAbordo[i].getPeso();
             }
         }
-
         return peso;
     }
 
